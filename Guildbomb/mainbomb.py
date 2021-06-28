@@ -50,4 +50,4 @@ for filename in os.listdir('RaidModules'):
 print("... Ready! [2/3]")
 
 bot.remove_command('help')
-bot.run(dc_token)
+bot.run(ODU5MDQxOTIyMDA2MTIyNTE3.YNm7Ig.-i2EH_iwbaWx9brvSa5hGEpkrzA)
